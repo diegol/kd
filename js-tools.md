@@ -9,3 +9,5 @@ watchify: Update any source file and your browserify bundle will be recompiled o
 UglifyJS: UglifyJS is a JavaScript compressor/minifier written in JavaScript
 
 Gulp: gulp is a toolkit for automating painful or time-consuming tasks in your development workflow
+
+phantomJs: hedless browser with js for testing/screenshoot
