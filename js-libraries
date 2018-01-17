@@ -27,3 +27,5 @@ browserify :Browsers don't have the require method defined, but Node.js does. Wi
 watchify: Update any source file and your browserify bundle will be recompiled on the spot.
 
 UglifyJS: UglifyJS is a JavaScript compressor/minifier written in JavaScript
+
+Gulp: gulp is a toolkit for automating painful or time-consuming tasks in your development workflow
