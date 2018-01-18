@@ -11,3 +11,5 @@ UglifyJS: UglifyJS is a JavaScript compressor/minifier written in JavaScript
 Gulp: gulp is a toolkit for automating painful or time-consuming tasks in your development workflow
 
 phantomJs: hedless browser with js for testing/screenshoot
+
+ESLint
