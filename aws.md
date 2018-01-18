@@ -23,8 +23,9 @@ Cloud Trial
 
 DB's / Cache:
 - Redshift:  petabytes powered by Postgress 
-- DyanmoDb: key-value, secondary-indexes map reduce
-- SimpleDB:
+- DyanmoDb: key-value, secondary-indexes map reduce:
+Amazon DynamoDB is designed to maintain predictably high performance and to be highly cost efficient for workloads of any scale, from the smallest to the largest internet-scale applications.
+- SimpleDB: nos as scalable, simpler..
 - Cloud Search: Simpler configuration than ES.ok
 - Amazon Elastic Search: ES implementation
 - Amazon Aurora:
