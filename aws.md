@@ -13,6 +13,7 @@
 - Elastic Load Balancer
 - CloudWatch is used for alarms and health monitoring
 - Lamda functions
+- AWS API Gateway
 
 IAM
 
