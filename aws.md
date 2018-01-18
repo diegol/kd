@@ -14,6 +14,7 @@
 - CloudWatch is used for alarms and health monitoring
 - Lamda functions
 - AWS API Gateway
+- Amazon Kinesis Data Streams enables you to build custom applications that process or analyze streaming data for specialized needs
 
 IAM
 
